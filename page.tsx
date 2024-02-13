@@ -25,6 +25,11 @@ export default async function Home() {
        
       )}
 
+<div>
+       <h1>Sign in to see your hobbies</h1>
+        <p>Sign in to see your hobbies</p>
+        </div>
+
 
     </main>
   );
